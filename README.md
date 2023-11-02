@@ -1,5 +1,6 @@
 # Xolo-Consent
-<img width="1424" alt="Captura de pantalla 2023-11-02 a la(s) 3 14 04 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/5c775810-ce67-4dc3-b1e5-26ff4d772da8">
+<img width="1424" alt="Captura de pantalla 2023-11-02 a la(s) 3 14 04 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/a1a653c5-9ffe-42fd-825d-bb4877da280d">
+
 
 ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
@@ -21,11 +22,12 @@ Desarrollo Ágil: Experimenté cómo la agilidad en el desarrollo es crucial par
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
-<img width="1761" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 23 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/9a1fed13-3c7e-4f70-a00a-51bef33de01d">
-<img width="1881" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 11 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/11a1c1df-4e81-43fc-8237-4850fee85e20">
-<img width="1424" alt="Captura de pantalla 2023-11-02 a la(s) 3 14 04 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/f6c17307-cf4e-435a-8814-d8b6e42aa738">
-<img width="1741" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 37 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/d2b75c80-4292-4e17-bc07-8f20910c55ac">
-<img width="1813" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 52 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/8dd84f93-e63f-4766-beb8-af8c485744f8">
+
+<img width="1881" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 11 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/a49420c0-6be7-40df-8413-bbcd53788cac">
+<img width="1424" alt="Captura de pantalla 2023-11-02 a la(s) 3 14 04 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/9f724a01-588b-4c17-b6a4-bcf0945d9556">
+<img width="1741" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 37 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/7d4d14cc-1e14-4286-9882-c81cdad7dac4">
+<img width="1813" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 52 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/9975d6e9-95b9-4f37-a237-be20ef25e7de">
+
 
 
 
