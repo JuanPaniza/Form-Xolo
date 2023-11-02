@@ -24,7 +24,6 @@ Desarrollo Ágil: Experimenté cómo la agilidad en el desarrollo es crucial par
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
 <img width="1881" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 11 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/a49420c0-6be7-40df-8413-bbcd53788cac">
-<img width="1424" alt="Captura de pantalla 2023-11-02 a la(s) 3 14 04 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/9f724a01-588b-4c17-b6a4-bcf0945d9556">
 <img width="1741" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 37 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/7d4d14cc-1e14-4286-9882-c81cdad7dac4">
 <img width="1813" alt="Captura de pantalla 2023-11-02 a la(s) 3 19 52 p  m" src="https://github.com/JuanPaniza/Form-Xolo/assets/138939235/9975d6e9-95b9-4f37-a237-be20ef25e7de">
 
