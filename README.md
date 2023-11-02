@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
-- [URL-de-la-api](URL-de-la-api)
+- [[URL-de-la-api](URL-de-la-api)](https://xolostudio.vercel.app/)
 
 ## Descripción 📑
 Este proyecto fue desarrollado con tecnologías avanzadas como Next.js para el frontend y Node.js con Express y DynamoDB en el backend. Este proyecto es un formulario de concentimiente que permite a los clientes rellenar si tienen algun tipo de alergias o antecedentes antes de realizarse cualquier procedimiento estetico en el spa xolo.
